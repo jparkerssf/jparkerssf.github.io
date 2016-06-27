@@ -41,7 +41,11 @@ __Softstack Factory__ 12 week long Web and Mobile Development Bootcamp that invo
 * MongoDB
 
 ## Projects
-<a href="http://codepen.io/jadtheparker/pen/wWWRBK">click here for an example of my work </a>
+<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator </a>
+
+
+<a href="https://ionicapp2-jadtheparker.c9users.io/#/">Temperment Test </a>
+
 
 ### Resume
 
