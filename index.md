@@ -3,9 +3,9 @@ layout: cv
 title: Jadon Parker's Resume
 ---
 
-![Jadon](./media/cheetah.jpg){:.avatar}
+![Jadon](./media/21.png){:.avatar}
 
-#Jadon Parker - Student of the Web and Technology
+#Jadon Parker - Mobile Application Developer
 
 <div id="webaddress">
 <a href="mailto:">jparker@softstackfactory.org</a>
@@ -39,10 +39,17 @@ __Softstack Factory__ 12 week long Web and Mobile Development Bootcamp using the
 * Express.js
 * MongoDB
 * Ionic Framework
+* Strongloop
+* Balsamiq Mockups
+* Multilingual
+* Github
+* Microsoft Office
+* 
+
 
 ## Projects
-<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a><p> This simple application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer and will output the change.<p>
-<a href="http://codepen.io/jadtheparker/pen/yJXXwx"> Calculator:</a>  <p> This calculator was building using Ionic and Angular. </p>
+<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This simple application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer and will output the change.<p>
+<a href="http://codepen.io/jadtheparker/pen/yJXXwx"> Calculator:</a>   This calculator was building using Ionic and Angular. 
 
 <a href="https://ionicapp2-jadtheparker.c9users.io/#/">Temperment Test </a> (Please note that the application may not be running at the time)
 
