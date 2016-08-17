@@ -47,6 +47,7 @@ __Softstack Factory__: Development Bootcamp
 * Pivotal Tracker
 * Multilingual
 * Microsoft Office
+ 
 ## Projects
 <a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies. <br>
 <a href="https://github.com/jparkerssf/ionicapp2">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and the Strongloop Loopback framework to compose the API's.
