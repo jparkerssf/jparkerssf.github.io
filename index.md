@@ -63,9 +63,9 @@ __Housing Resources Coordinator/Administrative Assistant__
 
 Worked on a team that coordinated large events for hundreds of upper level management attending specialized training at headquarters.
 
-Coordinated all details for global training program of management and staff from various branches at headquarters. 
+Coordinated all details for training program of management and staff from various branches at headquarters. 
 
-Coordinated housing arrangements for hundreds of temporary staff on a weekly rotation.Strategized for optimum use of housing resources leading to reduction of expenses
+Coordinated housing arrangements for hundreds of temporary staff on a weekly rotation which included stragegizing for optimum use of housing resources leading to  reduction of expenses.
 
 
 
