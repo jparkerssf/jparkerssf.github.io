@@ -3,7 +3,7 @@ layout: cv
 title: Jadon Parker's Resume
 ---
 
-![Jadon](./media/21.png){:.avatar}
+![Jadon](./media/22.png){:.avatar}
 
 #Jadon Parker - Mobile Application Developer
 
@@ -18,7 +18,9 @@ title: Jadon Parker's Resume
 
 ## Currently
 
-I'm currently enrolled in a technical bootcamp emphasizing hybrid mobile development.
+Enrolled in a 12 week long Web and Mobile Development Bootcamp that will conclude in September of 2016.  The course focused on learning a complete technology stack and best practices regarding technology and corporate etiquette. This included learning how to succesfully work on a development team and collaborate code with a version control system.
+Additionally, the Ionic framework as well as the  MEAN stack(MongoDB, ExpressJS, AngularJS, NodeJS) were used to develop several mobile applications during the course that included a 6 week long real world project.
+
 
 ## Education
 
@@ -26,9 +28,8 @@ I'm currently enrolled in a technical bootcamp emphasizing hybrid mobile develop
 __Cuyamaca College__ A.S.-Emphasis in Science and Math
 
 
-`2015`
-__Softstack Factory__ 12 week long Web and Mobile Development Bootcamp using the Ionic framework and the MEAN stack(MongoDB, ExpressJS, AngularJS, NodeJS).
-
+`2016`
+__Softstack Factory__: Development Bootcamp
 
 ## Technical skills
 
@@ -44,21 +45,17 @@ __Softstack Factory__ 12 week long Web and Mobile Development Bootcamp using the
 * Multilingual
 * Github
 * Microsoft Office
-* 
 
 
 ## Projects
-<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This simple application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer and will output the change.<p>
+<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies.<p>
 <a href="http://codepen.io/jadtheparker/pen/yJXXwx"> Calculator:</a>   This calculator was building using Ionic and Angular. 
 
-<a href="https://ionicapp2-jadtheparker.c9users.io/#/">Temperment Test </a> (Please note that the application may not be running at the time)
+<a href="https://ionicapp2-jadtheparker.c9users.io/#/">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and 
 
 
-### Resume
 
-I created a this web page to show off my CV.  
-
-
+<a href="https://github.com/jparkerssf/fashionApp">MYFashionAPP:</a>  An application in progress that will enable users to give and  receive fashion critique and advice based on their personal wardrobe. It will allow users to upload pictures of their outfit and ask for advice for a specific part of their outfit.  </div>
 
 ## Experience
 
@@ -76,6 +73,7 @@ __Administrative Assistant__
 * Travel
 * Coding
 * Volunteer Work
+* Piano
 
 ## Links
 
