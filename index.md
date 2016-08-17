@@ -52,7 +52,9 @@ __Cuyamaca College__ A.S.-Emphasis in Science and Math
 <a href= "http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies. 
 
 
+
 <a href="https://github.com/jparkerssf/ionicapp2">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and the Strongloop Loopback framework to compose the API's.
+
 
 
 <a href="https://github.com/jparkerssf/fashionApp">MYFashionAPP:</a>  An application in progress that will enable users to give and  receive fashion critique and advice based on their personal wardrobe. It will allow users to upload pictures of their outfit and wardrobe and receive advice in the form of comments. It is being built using Ionic as well as Strongloop Loopback. 
