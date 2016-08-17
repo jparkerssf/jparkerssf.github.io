@@ -6,7 +6,7 @@ title: <title>Jadon Parker's Resume</title>
 ![Jadon](./media/22.png){:.avatar}
 
 # Jadon Parker 
-##  Mobile Application Developer
+## Mobile Application Developer
 
 <div id="webaddress">
 <a href="mailto:">jparker@softstackfactory.org</a>
