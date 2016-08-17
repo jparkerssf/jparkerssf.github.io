@@ -43,12 +43,10 @@ __Softstack Factory__: Development Bootcamp
 * Ionic Framework
 * Strongloop
 * Balsamiq Mockups
-* Multilingual
 * Github
-* Microsoft Office
 * Pivotal Tracker
-
-
+* Multilingual
+* Microsoft Office
 ## Projects
 <a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies. <br>
 <a href="https://github.com/jparkerssf/ionicapp2">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and the Strongloop Loopback framework to compose the API's.
@@ -60,9 +58,13 @@ __Softstack Factory__: Development Bootcamp
 ## Experience
 
 `2011-15`
-__Administrative Assistant__ 
-  Worked on a team that coordinated housing arrangements for hundreds of temporary staff and coordinated large events for upper level management. This involved strategizing for optimum use of housing resources leading to a reduction of expenses.
+__Housing Resources Coordinator/Administrative Assistant__ 
 
+Worked on a team that coordinated large events for hundreds of upper level management attending specialized training at headquarters.
+
+Coordinated all details for global training program of management and staff from various branches at headquarters. 
+
+Coordinated housing arrangements for hundreds of temporary staff on a weekly rotation.Strategized for optimum use of housing resources leading to reduction of expenses
 
 
 
