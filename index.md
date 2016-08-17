@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Jadon Parker's Resume
+title: <title>Jadon Parker's Resume</title>
 ---
 
 ![Jadon](./media/22.png){:.avatar}
 
-#Jadon Parker - Mobile Application Developer
+## Jadon Parker - Mobile Application Developer
 
 <div id="webaddress">
 <a href="mailto:">jparker@softstackfactory.org</a>
@@ -18,7 +18,7 @@ title: Jadon Parker's Resume
 
 ## Currently
 
-Enrolled in a 12 week long Web and Mobile Development Bootcamp that will conclude in September of 2016.  The course focused on learning a complete technology stack and best practices regarding technology and corporate etiquette. This included learning how to succesfully work on a development team and collaborate code with a version control system.
+Enrolled in a 12 week long Web and Mobile Development Bootcamp that will conclude in September of 2016.  The course focused on learning a complete technology stack and best practices regarding technology and corporate etiquette. This included learning how to succesfully work on a development team using an agile project management tool(pivotal tracker) and collaborate using a version control system (Github).
 Additionally, the Ionic framework as well as the  MEAN stack(MongoDB, ExpressJS, AngularJS, NodeJS) were used to develop several mobile applications during the course that included a 6 week long real world project.
 
 
@@ -45,17 +45,16 @@ __Softstack Factory__: Development Bootcamp
 * Multilingual
 * Github
 * Microsoft Office
+* Pivotal Tracker
 
 
 ## Projects
-<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies.<p>
-<a href="http://codepen.io/jadtheparker/pen/yJXXwx"> Calculator:</a>   This calculator was building using Ionic and Angular. 
-
-<a href="https://ionicapp2-jadtheparker.c9users.io/#/">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and 
+<a href="http://codepen.io/jadtheparker/pen/wWWRBK">Change Calculator: </a> This application was built using Angular, Ionic, and Javascript. It accepts the cost of the item as well as the amount the customer initially paid by the customer. It will output the change owed in quarters, dimes, nickels, and pennies. <br>
+<a href="https://github.com/jparkerssf/ionicapp2">Temperment Test: </a> The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessment application that was built using the Ionic framework and the Strongloop Loopback framework to compose the API's.
 
 
 
-<a href="https://github.com/jparkerssf/fashionApp">MYFashionAPP:</a>  An application in progress that will enable users to give and  receive fashion critique and advice based on their personal wardrobe. It will allow users to upload pictures of their outfit and ask for advice for a specific part of their outfit.  </div>
+<a href="https://github.com/jparkerssf/fashionApp">MYFashionAPP:</a>  An application in progress that will enable users to give and  receive fashion critique and advice based on their personal wardrobe. It will allow users to upload pictures of their outfit and wardrobe and receive advice in the form of comments. It is being built using Ionic as well as Strongloop Loopback. 
 
 ## Experience
 
