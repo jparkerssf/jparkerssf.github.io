@@ -67,7 +67,7 @@ The TK Test (or Thomas-Kilmann Instrument), is a self-scoring behavioral assessm
 
 An application in progress that will enable users to give and  receive fashion critique and advice based on their personal wardrobe. It will allow users to upload pictures of their outfit and wardrobe and receive advice in the form of comments. It is being built using Ionic as well as Strongloop Loopback. 
  
-<p><strong>Promus Property Application:</strong></p>Worked as a member of a six person team on the Promus Application.  It automates the tracking, receiving, and fulfilling of maintenance requests made by tenants to property management firms. It was built using the Ionic framework as well as the  Strongloop Loopback framework to compose the REST API's. Additionally, pivotal tracker and Github were used to enable efficient collaboration among team members.
+<p><strong>Promus Property Management Application:</strong></p>Worked as a member of a six person team on the Promus Application.  It automates the tracking, receiving, and fulfilling of maintenance requests made by tenants to property management firms. It was built using the Ionic framework as well as the  Strongloop Loopback framework to compose the REST API's. Additionally, pivotal tracker and Github were used to enable efficient collaboration among team members.
  
  
  
